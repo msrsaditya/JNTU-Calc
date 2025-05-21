@@ -1,2 +1,2 @@
-# Perfect LightHouse Score
+# Perfect LightHouse Score!
 ![](LightHouse.png)
